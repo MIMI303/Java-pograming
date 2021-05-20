@@ -1,2 +1,2 @@
-# testingMode
-Manual software testing 
+# Java programing
+Backend programing
